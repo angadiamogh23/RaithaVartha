@@ -52,4 +52,4 @@ app/
 Amogh Angadi
 
 ## 🔗 GitHub Repository
-Project Link: https://github.com/yourusername/Raitha-Varta
+Project Link: https://github.com/angadiamogh23/Raitha-Varta
